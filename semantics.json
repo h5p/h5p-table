@@ -1,0 +1,9 @@
+[
+  {
+    "name": "text",
+    "type": "text",
+    "widget": "html",
+    "label": "Table",
+    "default": "<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width: 100%;\"><thead><tr><th scope=\"col\"></th><th scope=\"col\"></th></tr></thead><tbody><tr><td></td><td></td></tr><tr><td>fsd</td><td>sdf</td></tr></tbody></table>"
+  }
+]
