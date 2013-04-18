@@ -7,7 +7,7 @@ var H5P = H5P || {};
  * @param {string} contentPath The path to our content folder.
  */
 H5P.Table = function (params, contentPath) {
-  this.text = params.text === undefined ? '<table><tr><th>New</td><td></td></tr><tr><td></td><td>table</td></tr></table>' : params.text;
+  this.text = params.text === undefined ? '<table><tr><th>New</th><td></td></tr><tr><td></td><td>table</td></tr></table>' : params.text;
 };
 
 /**
