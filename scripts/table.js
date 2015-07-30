@@ -16,5 +16,5 @@ H5P.Table = function (params, id) {
  * @param {jQuery} $wrapper
  */
 H5P.Table.prototype.attach = function ($wrapper) {
-  $wrapper.html(this.text);
+  $wrapper.addClass('h5p-table').html(this.text);
 };
