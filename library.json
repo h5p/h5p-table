@@ -12,5 +12,10 @@
     {
       "path": "scripts/table.js"
     }
+  ],
+  "preloadedCss": [
+    {
+      "path": "styles/table.css"
+    }
   ]
 }
