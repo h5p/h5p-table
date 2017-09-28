@@ -17,5 +17,4 @@ H5P.Table = function (params, id) {
  */
 H5P.Table.prototype.attach = function ($wrapper) {
   $wrapper.addClass('h5p-table').html(this.text);
-  $wrapper.attr('tabindex', 0);
 };
