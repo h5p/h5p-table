@@ -2,6 +2,8 @@
   padding: 1em;
 }
 
-.h5p-table table {
+.h5p-table table,
+.h5p-table th,
+.h5p-table td {
   border-style: solid;
 }
