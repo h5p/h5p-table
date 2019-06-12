@@ -12,6 +12,9 @@
       "del",
       "a",
       "table"
-    ]
+    ],
+    "font": {
+      "color": true
+    }
   }
 ]
