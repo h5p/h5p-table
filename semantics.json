@@ -11,7 +11,8 @@
       "em",
       "del",
       "a",
-      "table"
+      "table",
+      "code"
     ],
     "font": {
       "color": true
