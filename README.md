@@ -2,7 +2,7 @@ H5P Table
 ==========
 
 A simple library that displays a table.
-Useful when users dynamially add tables to other content.
+Useful when users dynamically add tables to other content.
 
 ## License
 
