@@ -36,11 +36,5 @@ H5P.Table = function (params, id) {
  * @param {jQuery} $wrapper
  */
 H5P.Table.prototype.attach = function ($wrapper) {
-  // Prevent overflow from aligning tables
-  let overflowProtection = '';
-  if (!this.text.includes('table-overflow-protection')) {
-    overflowProtection = '<div class="table-overflow-protection"/>';
-  }
-
-  $wrapper.addClass('h5p-table').html(this.text + overflowProtection);
+  $wrapper.addClass('h5p-table').html(this.text);
 };
