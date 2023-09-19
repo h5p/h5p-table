@@ -41,4 +41,8 @@
       word-break: break-word;
     }
   }
+
+  & .table-overflow-protection {
+    clear: both;
+  }
 }
