@@ -9,7 +9,9 @@ H5PUpgrades['H5P.Table'] = (function () {
         let newParams = tables[0];
 
         for (let i = 1; i < tables.length; i++) {
-          const style = 'style="border-style:solid;';
+          const style = tables[i].includes('h5p-table') ? 
+            'style="border-style:solid;' :
+            'style="border-style:double;border-width: 0.2em;border-collapse:collapse;';
 
           if (tables[i].includes('border')) {
             // Set border style on the table
