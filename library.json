@@ -8,6 +8,10 @@
   "runnable": 0,
   "machineName": "H5P.Table",
   "author": "Joubel",
+  "coreApi": {
+    "majorVersion": 1,
+    "minorVersion": 27
+  },
   "preloadedJs": [
     {
       "path": "scripts/table.js"
