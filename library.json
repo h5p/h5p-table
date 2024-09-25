@@ -3,11 +3,15 @@
   "contentType": "Static content",
   "description": "Simple library that displays table.",
   "majorVersion": 1,
-  "minorVersion": 1,
-  "patchVersion": 19,
+  "minorVersion": 2,
+  "patchVersion": 2,
   "runnable": 0,
   "machineName": "H5P.Table",
   "author": "Joubel",
+  "coreApi": {
+    "majorVersion": 1,
+    "minorVersion": 27
+  },
   "preloadedJs": [
     {
       "path": "scripts/table.js"
