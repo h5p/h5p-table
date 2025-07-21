@@ -1,0 +1,8 @@
+{
+  "semantics": [
+    {
+      "label": "Tabel",
+      "default": "<table class=\"h5p-table\"><thead><tr><th scope=\"col\">Antet Coloana 1</th><th scope=\"col\">Antet Coloana 2</th></tr></thead><tbody><tr><td>Rând 1 Col 1</td><td>Rând 1 Col 2</td></tr><tr><td>Rând 2 Col 1</td><td>Rând 2 Col 2</td></tr></tbody></table>"
+    }
+  ]
+}
